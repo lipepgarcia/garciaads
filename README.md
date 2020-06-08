@@ -3,10 +3,9 @@
 
 Documentação API
 
-
 Inserção de usuario 
 
-POST => https://engenhariasoftware2.herokuapp.com/api/user
+POST => https://garciaads.herokuapp.com/api/user
 
 {
 	"user": {
@@ -15,14 +14,14 @@ POST => https://engenhariasoftware2.herokuapp.com/api/user
 	}
 }
 
-Retorna usuarios
+Retorna os usuarios
 
-GET => https://engenhariasoftware2.herokuapp.com/api/user
+GET => https://garciaads.herokuapp.com/api/user
 
 
-Altera Registro do usuario
+Altera os registros dos usuarios
 
-PUT => https://engenhariasoftware2.herokuapp.com/api/user
+PUT => https://garciaads.herokuapp.com/api/user
 
 {
 	"user": {
@@ -34,4 +33,4 @@ PUT => https://engenhariasoftware2.herokuapp.com/api/user
 
 Deleta usuario
 
-DELETE => https://engenhariasoftware2.herokuapp.com/api/user/id_do_usuario
+DELETE => https://garciaads.herokuapp.com/api/user/id_do_usuario
