@@ -5,11 +5,11 @@ module.exports = {
     portApi: process.env.PORT || 3000,
     dataConfig: {
       MYSQL: {
-        database: 'kudgv9t2q6almxt8',
-        host: 'pqxt96p7ysz6rn1f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        database: 'hdf54qn0147lyd3v',
+        host: 'qf5dic2wzyjf1x5x.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
         port: '3306',
-        user: 'xciewfnknqxhyd4o',
-        password: 'dcm9l3jx04xua5g4'
+        user: 'c6agdu4zu6ltug7a',
+        password: 'nyvwkjni224t02ne'
       }
     }
   };
